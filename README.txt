@@ -1,3 +1,10 @@
+A dockerized notifications microservice purpose-built for an auction site. Ingests asynchronously from RabbitMQ feed. Stores necessary data in Mongo.
+
+
+Usage instructions follow.
+
+--------------
+
 # LOAD THE IMAGE
 
 docker load < dwu_rmq_admin.tar.gz
